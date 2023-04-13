@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerExample", "IndexerExample.csproj", "{149C1F55-55C8-425F-9D35-29DF3F52ACD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{94019FE0-EEF0-404E-AF4E-F00A4AE6028E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerClassLibrary", "..\IndexerClassLibrary\IndexerClassLibrary.csproj", "{1F9596FF-1794-42E4-B0AB-F93930EF5612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{149C1F55-55C8-425F-9D35-29DF3F52ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{149C1F55-55C8-425F-9D35-29DF3F52ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{149C1F55-55C8-425F-9D35-29DF3F52ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94019FE0-EEF0-404E-AF4E-F00A4AE6028E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94019FE0-EEF0-404E-AF4E-F00A4AE6028E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94019FE0-EEF0-404E-AF4E-F00A4AE6028E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94019FE0-EEF0-404E-AF4E-F00A4AE6028E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9596FF-1794-42E4-B0AB-F93930EF5612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9596FF-1794-42E4-B0AB-F93930EF5612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9596FF-1794-42E4-B0AB-F93930EF5612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9596FF-1794-42E4-B0AB-F93930EF5612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
