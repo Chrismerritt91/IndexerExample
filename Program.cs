@@ -9,6 +9,7 @@
 
         //call get accessor off indexer
         Console.WriteLine(c[0]);//output BMW
+        Console.WriteLine(c["first"]);//output BMW
 
         //call set accessor of index
         c[0] = "Nissan";
